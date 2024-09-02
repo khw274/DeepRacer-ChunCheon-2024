@@ -8,8 +8,13 @@
 
 ## 대회 진행
 ### 트랙
-#### 예선: Smile Speedway  
+#### 예선: Smile Speedway(Counterclockwise)  
 ![image](https://github.com/user-attachments/assets/d161e888-154e-4c00-9ed1-1a01d58de8a8)
 
-#### 본선: 2022 re:Invent Championship
+#### 본선: 2022 re:Invent Championship(Counterclockwise)
 ![image](https://github.com/user-attachments/assets/3c56e19b-9998-4c72-afe8-24c2dc911885)
+
+### 규칙
+- 1바퀴 완주 기록 기준 (트랙 이탈 시 3초 패널티)   
+- 모델 훈련시간 : 30시간  
+- 모델 제출 제한 횟수 : 50회
