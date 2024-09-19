@@ -129,10 +129,10 @@ Smile Speedway 트랙은 비교적 쉬운 트랙이지만 굴곡이 큰 커브�
 2시간 훈련한 모델의 훈련 그래프이다. (Entropy 0.03)  
 ![image](https://github.com/user-attachments/assets/8ed09f62-186a-48ad-9fa2-333555aef47d)
  
-3시간 훈련한 모델의 훈련 그래프이다. (Entropy 0.003)
+3시간 훈련한 모델의 훈련 그래프이다. (Entropy 0.003)  
 ![image](https://github.com/user-attachments/assets/37f97a49-bc3b-4b1e-89b1-4e66cf299aa6)
 
-4시간 훈련한 모델의 훈련 그래프이다. (Entropy 0.003)  
+4시간 훈련한 모델의 훈련 그래프이다. (Entropy 0.003)   
 ![image](https://github.com/user-attachments/assets/6e30264c-7b8e-497b-bc2d-2431c0b7fa4c)
 
 5시간 훈련한 모델의 훈련 그래프이다. (Entropy 0.003, 직진 속도 +0.2)  
