@@ -121,19 +121,21 @@ Smile Speedway 트랙은 비교적 쉬운 트랙이지만 굴곡이 큰 커브�
 ### 훈련 방법과 그래프
 총 5시간의 훈련을 진행하였고 예선과 마찬가지로 2시간 이후의 훈련부터는 Entropy를 0.003으로 낮추어 진행하였다.
 
-처음 1시간 훈련한 모델의 훈련 그래프이다.   
+추가적으로 마지막 5시간째 훈련 때 직진 속도를 0.2 씩 증가시켜 더 빠른 속도로 주행할 수 있도록 훈련시켰다.
+
+처음 1시간 훈련한 모델의 훈련 그래프이다. (Entropy 0.03)   
 ![image](https://github.com/user-attachments/assets/0087a6cb-98a9-43f6-95df-3c3b18ea4090)
 
-2시간 훈련한 모델의 훈련 그래프이다.  
+2시간 훈련한 모델의 훈련 그래프이다. (Entropy 0.03)  
 ![image](https://github.com/user-attachments/assets/8ed09f62-186a-48ad-9fa2-333555aef47d)
  
-3시간 훈련한 모델의 훈련 그래프이다.  
+3시간 훈련한 모델의 훈련 그래프이다. (Entropy 0.003)
 ![image](https://github.com/user-attachments/assets/37f97a49-bc3b-4b1e-89b1-4e66cf299aa6)
 
-4시간 훈련한 모델의 훈련 그래프이다.  
+4시간 훈련한 모델의 훈련 그래프이다. (Entropy 0.003)  
 ![image](https://github.com/user-attachments/assets/6e30264c-7b8e-497b-bc2d-2431c0b7fa4c)
 
-5시간 훈련한 모델의 훈련 그래프이다.  
+5시간 훈련한 모델의 훈련 그래프이다. (Entropy 0.003, 직진 속도 +0.2)  
 ![image](https://github.com/user-attachments/assets/bff09bf6-c9ec-410e-aca0-98b618c98a71)
 
 처음 목표로 한 17초대가 안정적으로 나오는 모델을 찾기 위해 여러번 clone을 만들어 훈련을 진행했고 완주율이 높을 때 훈련을 중지하는 식으로 훈련하였다.
