@@ -1,0 +1,24 @@
+Action space type: Discrete
+
+Action space
+No.
+        Steering angle (°)    Speed (m/s)
+0	-26.0	              1.00
+1	-26.0	      	      1.50
+2	-13.0	              1.70
+3	-13.0	              2.00
+4	  0.0	              2.30
+5	  0.0	              2.60
+6	 13.0	              1.70
+7	 13.0	              2.00
+8	 26.0 	              1.00
+9	 26.0	              1.50
+
+(Hyperparameter)                                                        (Value)
+Gradient descent batch size	                                        64
+Entropy	                                                             	0.02       
+Discount factor	                                                 	0.8
+Loss type	                                                        Huber
+Learning rate	                                                        0.0003
+Number of experience episodes between each policy-updating iteration    20
+Number of epochs	                                                10
