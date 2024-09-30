@@ -1,7 +1,9 @@
 # 2024년 AWS DeepRacer Championship 춘천
 제2회 AWS DeepRacer Championship 춘천
 
-```🏆최우수상, 춘천시장상🏆```
+```🏆최우수상, 춘천시장상🏆```  
+
+<img src="https://github.com/user-attachments/assets/7519adc3-5552-4e77-aa97-45ecb41c2860" width="320" height="470"/>
 
 ## 공모 내용
  AWS DeepRacer를 활용한 인공지능 강화학습 기반의 자율주행 자동차 AI 융합 경진대회
