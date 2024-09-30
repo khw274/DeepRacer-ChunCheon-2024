@@ -197,7 +197,7 @@ Smile Speedway 트랙은 비교적 쉬운 트랙이지만 굴곡이 큰 커브�
 #### 결승 최적 경로 코드 그래프  
 ![image](https://github.com/user-attachments/assets/155eef5b-69b6-469c-bb1f-353bdcdf78ef)
 
-#### 결승 중앙성 코드 그래프
+#### 결승 중앙선 코드 그래프
 ![image](https://github.com/user-attachments/assets/0bd4c8bf-2f7b-46a6-9bfd-68a37417d281)
 
 ### 결승 주행 및 결과
